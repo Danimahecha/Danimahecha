@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel Mahecha</h1>
-<h3 align="center">I am a full stack developer and an audio to learn new technologies</h3>
+<h3 align="center">I am a full stack developer and an expert to learn new technologies</h3>
 
 - 🔭 I’m currently working on **MI portrafolio**
 
 - 🌱 I’m currently learning **mobile and testing quality**
 
-- 💬 Ask me about **React and redu**
+- 💬 Ask me about **React and redux**
 
-- 📫 How to reach me **daniel.mahechagmail.com**
+- 📫 How to reach me **daniel.mahecham@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/daniel-mahecha-full-stack-developer](www.linkedin.com/in/daniel-mahecha-full-stack-developer)
 
